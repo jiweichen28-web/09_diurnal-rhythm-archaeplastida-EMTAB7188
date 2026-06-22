@@ -1,0 +1,11 @@
+"id","latin","clade","genes","samples","timepoints","replicates","light_hours","paper_rhythmic","paper_pval_lt05"
+"Syn","Synechocystis sp. PCC 6803","Cyanobacteria",3467,24,12,2,12,2440,2440
+"Cpa","Cyanophora paradoxa","Glaucophyte",24702,36,12,3,16,12343,12343
+"Ppu","Porphyridium purpureum","Rhodophyte",8355,36,12,3,12,6597,6597
+"Cre","Chlamydomonas reinhardtii","Chlorophyte(green alga)",17733,24,12,2,12,12341,12341
+"Kni","Klebsormidium nitens","Charophyte",17053,36,12,3,12,9375,9377
+"Ppa","Physcomitrella patens","Moss",32275,36,12,3,16,11692,11693
+"Smo","Selaginella moellendorffii","Lycophyte",22285,36,12,3,12,11860,11861
+"Pab","Picea abies","Gymnosperm(spruce)",36948,36,12,3,16,5280,2199
+"Osa","Oryza sativa","Monocot(rice)",24957,12,6,2,12,8082,8082
+"Ath","Arabidopsis thaliana","Eudicot(Arabidopsis)",14019,18,6,3,12,5676,5676

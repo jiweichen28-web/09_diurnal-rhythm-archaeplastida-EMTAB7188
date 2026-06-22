@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS / 编辑器
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ── 数据策略 ────────────────────────────────────────────────
+# data/ 纳入 Supplementary Data xlsx(复现必需, MB 级文本)。
+# 原始 fastq / 大压缩包不入库。
+*.zip
+*.tar
+*.tar.gz
+*.gz
+*.fastq
+*.bam
+*.rds
+*.RData
+
+# 内部交接文档(若有, 含绝对路径, 不公开)
+HANDOFF.md
