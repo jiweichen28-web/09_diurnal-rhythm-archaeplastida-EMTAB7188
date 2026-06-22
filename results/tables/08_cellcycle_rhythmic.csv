@@ -1,0 +1,11 @@
+"id","latin","lifestyle","n_cellcycle","n_rhythmic","cc_rhythmic_frac","genome_rhythmic_frac"
+"Syn","Synechocystis sp. PCC 6803","Unicellular",26,20,76.9,70.4
+"Cpa","Cyanophora paradoxa","Unicellular",275,192,69.8,50
+"Ppu","Porphyridium purpureum","Unicellular",205,163,79.5,79
+"Cre","Chlamydomonas reinhardtii","Unicellular",429,293,68.3,69.6
+"Kni","Klebsormidium nitens","Unicellular",356,250,70.2,55
+"Ppa","Physcomitrella patens","Multicellular",559,273,48.8,36.2
+"Smo","Selaginella moellendorffii","Multicellular",490,310,63.3,53.2
+"Pab","Picea abies","Multicellular",801,41,5.1,6
+"Osa","Oryza sativa","Multicellular",443,150,33.9,32.4
+"Ath","Arabidopsis thaliana","Multicellular",476,187,39.3,40.5

@@ -46,6 +46,11 @@ PAPER_RHYTHMIC <- c(Syn=2440, Cpa=12343, Ppu=6597, Cre=12341, Kni=9375,
 # 各物种光照时长(h): 多数 12L/12D; Cpa/Ppa/Pab 是 16L/8D
 LIGHT_HOURS <- c(Syn=12, Cpa=16, Ppu=12, Cre=12, Kni=12, Ppa=16, Smo=12, Pab=16, Osa=12, Ath=12)
 
+# Phylostratum 进化年龄排序(老->新), 据论文 Fig.1a 物种树
+# Prokaryotic 最老(早于真核), Specific 最新(物种特异)
+PHYLO_ORDER <- c("Prokaryotic","Archeaplastidia I","Archeaplastidia II","Viridiplantae",
+                 "Streptophyta","Embryophyta","Tracheophyta","Gymnospermae","Angiospermae","Specific")
+
 # ── 绘图风格 (8pt, 黑色描边, 无网格; 图内文字一律英文) ──
 FONT_SIZE <- 8; PT <- FONT_SIZE / 2.845; LW <- 0.5 / 2.1333; PLOT_FAMILY <- "sans"
 # 类群配色(蓝->绿->深绿, 进化梯度: 蓝藻->藻类->陆生植物)
