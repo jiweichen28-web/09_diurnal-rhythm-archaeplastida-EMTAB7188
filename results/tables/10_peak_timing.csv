@@ -1,0 +1,11 @@
+"id","latin","clade","photoperiod","n_rhythmic","second_half_frac","bimodality"
+"Syn","Synechocystis sp. PCC 6803","Cyanobacteria","12L/12D",2488,62.2,0.94
+"Cpa","Cyanophora paradoxa","Glaucophyte","16L/8D",12219,78.9,0
+"Ppu","Porphyridium purpureum","Rhodophyte","12L/12D",6591,47.9,0.56
+"Cre","Chlamydomonas reinhardtii","Chlorophyte(green alga)","12L/12D",12106,72.3,0
+"Kni","Klebsormidium nitens","Charophyte","12L/12D",9348,65.8,0
+"Ppa","Physcomitrella patens","Moss","16L/8D",11656,79,0
+"Smo","Selaginella moellendorffii","Lycophyte","12L/12D",11738,72.1,0
+"Pab","Picea abies","Gymnosperm(spruce)","16L/8D",2136,60.3,0
+"Osa","Oryza sativa","Monocot(rice)","12L/12D",8082,59.8,0.1
+"Ath","Arabidopsis thaliana","Eudicot(Arabidopsis)","12L/12D",5676,50.2,0.65
